@@ -1,0 +1,11 @@
+
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image-register {
+  background-image: url('https://images.macrumors.com/t/-WhF9d3h7Je2kQsIQjH4OMFVSNs=/1600x/article-new/2022/09/iphone-14-pro.jpg');
+  background-size: cover;
+  background-position: center center;
+}
